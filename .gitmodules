@@ -4,3 +4,6 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "lib/morpho-data-structures"]
+	path = lib/morpho-data-structures
+	url = https://github.com/proofxyz/morpho-data-structures
